@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1757923910,,"wq"
+|2,0,1757928411,,"wq"
 ::wq
 |2,0,1757151782,,":wq"
 
@@ -45,36 +45,200 @@
 |3,0,36,0,1,0,1757906104,"t"
 
 # File marks:
-'0  2  0  ~/example.txt
-|4,48,2,0,1757923910,"~/example.txt"
-'1  5  31  ~/.gitconfig
-|4,49,5,31,1757920969,"~/.gitconfig"
-'2  1  13  ~/sample.txt
-|4,50,1,13,1757920244,"~/sample.txt"
-'3  5  31  ~/.gitconfig
-|4,51,5,31,1757918083,"~/.gitconfig"
-'4  5  31  ~/.gitconfig
-|4,52,5,31,1757906177,"~/.gitconfig"
+'0  2  0  ~/yasu.txt
+|4,48,2,0,1757928411,"~/yasu.txt"
+'1  2  0  ~/first/yasu.txt
+|4,49,2,0,1757928310,"~/first/yasu.txt"
+'2  2  0  ~/first/teju.txt
+|4,50,2,0,1757927864,"~/first/teju.txt"
+'3  2  0  ~/first/teju.txt
+|4,51,2,0,1757927273,"~/first/teju.txt"
+'4  2  0  ~/example.txt
+|4,52,2,0,1757923910,"~/example.txt"
 '5  5  31  ~/.gitconfig
-|4,53,5,31,1757906177,"~/.gitconfig"
-'6  2  0  ~/first/sample.txt
-|4,54,2,0,1757905264,"~/first/sample.txt"
-'7  7  0  ~/if_condition.sh
-|4,55,7,0,1757582333,"~/if_condition.sh"
-'8  7  0  ~/if_condition.sh
-|4,56,7,0,1757582267,"~/if_condition.sh"
-'9  6  0  ~/teju.txt
-|4,57,6,0,1757209451,"~/teju.txt"
+|4,53,5,31,1757920969,"~/.gitconfig"
+'6  1  13  ~/sample.txt
+|4,54,1,13,1757920244,"~/sample.txt"
+'7  5  31  ~/.gitconfig
+|4,55,5,31,1757918083,"~/.gitconfig"
+'8  5  31  ~/.gitconfig
+|4,56,5,31,1757906177,"~/.gitconfig"
+'9  5  31  ~/.gitconfig
+|4,57,5,31,1757906177,"~/.gitconfig"
 
 # Jumplist (newest first):
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  1  0  ~/first/yasu.txt
+|4,39,1,0,1757928294,"~/first/yasu.txt"
+-'  1  0  ~/first/yasu.txt
+|4,39,1,0,1757928294,"~/first/yasu.txt"
+-'  2  0  ~/first/teju.txt
+|4,39,2,0,1757927864,"~/first/teju.txt"
+-'  2  0  ~/first/teju.txt
+|4,39,2,0,1757927864,"~/first/teju.txt"
+-'  2  0  ~/first/teju.txt
+|4,39,2,0,1757927864,"~/first/teju.txt"
+-'  2  0  ~/first/teju.txt
+|4,39,2,0,1757927864,"~/first/teju.txt"
+-'  2  0  ~/first/teju.txt
+|4,39,2,0,1757927273,"~/first/teju.txt"
+-'  2  0  ~/first/teju.txt
+|4,39,2,0,1757927273,"~/first/teju.txt"
+-'  2  0  ~/first/teju.txt
+|4,39,2,0,1757927273,"~/first/teju.txt"
+-'  2  0  ~/first/teju.txt
+|4,39,2,0,1757927273,"~/first/teju.txt"
+-'  1  0  ~/first/teju.txt
+|4,39,1,0,1757927262,"~/first/teju.txt"
+-'  1  0  ~/first/teju.txt
+|4,39,1,0,1757927262,"~/first/teju.txt"
+-'  1  0  ~/first/teju.txt
+|4,39,1,0,1757927262,"~/first/teju.txt"
+-'  1  0  ~/first/teju.txt
+|4,39,1,0,1757927262,"~/first/teju.txt"
+-'  1  0  ~/first/teju.txt
+|4,39,1,0,1757927262,"~/first/teju.txt"
+-'  1  0  ~/first/teju.txt
+|4,39,1,0,1757927262,"~/first/teju.txt"
+-'  1  0  ~/first/teju.txt
+|4,39,1,0,1757927262,"~/first/teju.txt"
+-'  1  0  ~/first/teju.txt
+|4,39,1,0,1757927262,"~/first/teju.txt"
 -'  2  0  ~/example.txt
 |4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  2  0  ~/example.txt
+|4,39,2,0,1757923910,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
+-'  1  0  ~/example.txt
+|4,39,1,0,1757923899,"~/example.txt"
 -'  1  0  ~/example.txt
 |4,39,1,0,1757923899,"~/example.txt"
 -'  5  31  ~/.gitconfig
 |4,39,5,31,1757920969,"~/.gitconfig"
 -'  5  31  ~/.gitconfig
 |4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757920969,"~/.gitconfig"
 -'  1  13  ~/sample.txt
 |4,39,1,13,1757920244,"~/sample.txt"
 -'  1  13  ~/sample.txt
@@ -83,192 +247,49 @@
 |4,39,1,13,1757920244,"~/sample.txt"
 -'  1  13  ~/sample.txt
 |4,39,1,13,1757920244,"~/sample.txt"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757918083,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757918083,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757918083,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757918083,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757906177,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757906177,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757906177,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757906177,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1757906057,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1757906057,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1757906057,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1757906057,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1757906057,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1757906057,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1757906057,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1757906057,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1757906057,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1757906057,"~/.gitconfig"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  2  0  ~/first/sample.txt
-|4,39,2,0,1757905264,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  1  0  ~/first/sample.txt
-|4,39,1,0,1757905220,"~/first/sample.txt"
--'  7  0  ~/if_condition.sh
-|4,39,7,0,1757582333,"~/if_condition.sh"
--'  7  0  ~/if_condition.sh
-|4,39,7,0,1757582333,"~/if_condition.sh"
--'  7  0  ~/if_condition.sh
-|4,39,7,0,1757582333,"~/if_condition.sh"
--'  7  0  ~/if_condition.sh
-|4,39,7,0,1757582333,"~/if_condition.sh"
--'  7  0  ~/if_condition.sh
-|4,39,7,0,1757582333,"~/if_condition.sh"
--'  7  0  ~/if_condition.sh
-|4,39,7,0,1757582333,"~/if_condition.sh"
--'  7  0  ~/if_condition.sh
-|4,39,7,0,1757582333,"~/if_condition.sh"
--'  7  0  ~/if_condition.sh
-|4,39,7,0,1757582333,"~/if_condition.sh"
--'  7  0  ~/if_condition.sh
-|4,39,7,0,1757582333,"~/if_condition.sh"
--'  7  0  ~/if_condition.sh
-|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  1  13  ~/sample.txt
+|4,39,1,13,1757920244,"~/sample.txt"
+-'  1  13  ~/sample.txt
+|4,39,1,13,1757920244,"~/sample.txt"
+-'  1  13  ~/sample.txt
+|4,39,1,13,1757920244,"~/sample.txt"
+-'  1  13  ~/sample.txt
+|4,39,1,13,1757920244,"~/sample.txt"
+-'  1  13  ~/sample.txt
+|4,39,1,13,1757920244,"~/sample.txt"
+-'  1  13  ~/sample.txt
+|4,39,1,13,1757920244,"~/sample.txt"
+-'  1  13  ~/sample.txt
+|4,39,1,13,1757920244,"~/sample.txt"
+-'  1  13  ~/sample.txt
+|4,39,1,13,1757920244,"~/sample.txt"
+-'  1  13  ~/sample.txt
+|4,39,1,13,1757920244,"~/sample.txt"
+-'  1  13  ~/sample.txt
+|4,39,1,13,1757920244,"~/sample.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/yasu.txt
+	*	1757928409	0
+	"	2	0
+	^	2	0
+	.	1	14
+	+	1	14
+
+> ~/first/yasu.txt
+	*	1757928309	0
+	"	2	0
+	^	2	0
+	.	1	10
+	+	1	10
+
+> ~/first/teju.txt
+	*	1757927861	0
+	"	2	0
+	^	2	0
+	.	1	15
+	+	1	15
 
 > ~/example.txt
 	*	1757923907	0
