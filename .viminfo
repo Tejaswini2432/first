@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1757906177,,"wq"
+|2,0,1757920244,,"wq"
 ::wq
 |2,0,1757151782,,":wq"
 
@@ -42,36 +42,74 @@
 |3,1,36,0,1,0,1757906104,"t"
 
 # File marks:
-'0  5  31  ~/.gitconfig
-|4,48,5,31,1757906177,"~/.gitconfig"
-'1  2  0  ~/first/sample.txt
-|4,49,2,0,1757905264,"~/first/sample.txt"
-'2  7  0  ~/if_condition.sh
-|4,50,7,0,1757582333,"~/if_condition.sh"
-'3  7  0  ~/if_condition.sh
-|4,51,7,0,1757582267,"~/if_condition.sh"
-'4  6  0  ~/teju.txt
-|4,52,6,0,1757209451,"~/teju.txt"
-'5  7  0  ~/teju.txt
-|4,53,7,0,1757207230,"~/teju.txt"
-'6  1  0  ~/teju.txt
-|4,54,1,0,1757206686,"~/teju.txt"
-'7  1  0  ~/teju.txt
-|4,55,1,0,1757206686,"~/teju.txt"
+'0  1  13  ~/sample.txt
+|4,48,1,13,1757920244,"~/sample.txt"
+'1  5  31  ~/.gitconfig
+|4,49,5,31,1757918083,"~/.gitconfig"
+'2  5  31  ~/.gitconfig
+|4,50,5,31,1757906177,"~/.gitconfig"
+'3  2  0  ~/first/sample.txt
+|4,51,2,0,1757905264,"~/first/sample.txt"
+'4  7  0  ~/if_condition.sh
+|4,52,7,0,1757582333,"~/if_condition.sh"
+'5  7  0  ~/if_condition.sh
+|4,53,7,0,1757582267,"~/if_condition.sh"
+'6  6  0  ~/teju.txt
+|4,54,6,0,1757209451,"~/teju.txt"
+'7  7  0  ~/teju.txt
+|4,55,7,0,1757207230,"~/teju.txt"
 '8  1  0  ~/teju.txt
 |4,56,1,0,1757206686,"~/teju.txt"
-'9  7  0  ~/teju.txt
-|4,57,7,0,1757152244,"~/teju.txt"
+'9  1  0  ~/teju.txt
+|4,57,1,0,1757206686,"~/teju.txt"
 
 # Jumplist (newest first):
+-'  1  13  ~/sample.txt
+|4,39,1,13,1757920244,"~/sample.txt"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757918083,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757918083,"~/.gitconfig"
 -'  5  31  ~/.gitconfig
 |4,39,5,31,1757906177,"~/.gitconfig"
+-'  5  31  ~/.gitconfig
+|4,39,5,31,1757906177,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1757906057,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1757906057,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1757906057,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1757906057,"~/.gitconfig"
 -'  2  0  ~/first/sample.txt
 |4,39,2,0,1757905264,"~/first/sample.txt"
 -'  2  0  ~/first/sample.txt
 |4,39,2,0,1757905264,"~/first/sample.txt"
+-'  2  0  ~/first/sample.txt
+|4,39,2,0,1757905264,"~/first/sample.txt"
+-'  2  0  ~/first/sample.txt
+|4,39,2,0,1757905264,"~/first/sample.txt"
+-'  2  0  ~/first/sample.txt
+|4,39,2,0,1757905264,"~/first/sample.txt"
+-'  2  0  ~/first/sample.txt
+|4,39,2,0,1757905264,"~/first/sample.txt"
+-'  2  0  ~/first/sample.txt
+|4,39,2,0,1757905264,"~/first/sample.txt"
+-'  2  0  ~/first/sample.txt
+|4,39,2,0,1757905264,"~/first/sample.txt"
+-'  1  0  ~/first/sample.txt
+|4,39,1,0,1757905220,"~/first/sample.txt"
+-'  1  0  ~/first/sample.txt
+|4,39,1,0,1757905220,"~/first/sample.txt"
+-'  1  0  ~/first/sample.txt
+|4,39,1,0,1757905220,"~/first/sample.txt"
+-'  1  0  ~/first/sample.txt
+|4,39,1,0,1757905220,"~/first/sample.txt"
+-'  1  0  ~/first/sample.txt
+|4,39,1,0,1757905220,"~/first/sample.txt"
+-'  1  0  ~/first/sample.txt
+|4,39,1,0,1757905220,"~/first/sample.txt"
 -'  1  0  ~/first/sample.txt
 |4,39,1,0,1757905220,"~/first/sample.txt"
 -'  1  0  ~/first/sample.txt
@@ -85,6 +123,34 @@
 -'  7  0  ~/if_condition.sh
 |4,39,7,0,1757582333,"~/if_condition.sh"
 -'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582333,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
 |4,39,7,0,1757582267,"~/if_condition.sh"
 -'  7  0  ~/if_condition.sh
 |4,39,7,0,1757582267,"~/if_condition.sh"
@@ -92,6 +158,74 @@
 |4,39,7,0,1757582267,"~/if_condition.sh"
 -'  7  0  ~/if_condition.sh
 |4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  7  0  ~/if_condition.sh
+|4,39,7,0,1757582267,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
+-'  1  0  ~/if_condition.sh
+|4,39,1,0,1757582172,"~/if_condition.sh"
 -'  1  0  ~/if_condition.sh
 |4,39,1,0,1757582172,"~/if_condition.sh"
 -'  1  0  ~/if_condition.sh
@@ -130,145 +264,18 @@
 |4,39,6,0,1757209451,"~/teju.txt"
 -'  6  0  ~/teju.txt
 |4,39,6,0,1757209451,"~/teju.txt"
--'  6  0  ~/teju.txt
-|4,39,6,0,1757209451,"~/teju.txt"
--'  6  0  ~/teju.txt
-|4,39,6,0,1757209451,"~/teju.txt"
--'  6  0  ~/teju.txt
-|4,39,6,0,1757209451,"~/teju.txt"
--'  6  0  ~/teju.txt
-|4,39,6,0,1757209451,"~/teju.txt"
--'  6  0  ~/teju.txt
-|4,39,6,0,1757209451,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207230,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  7  0  ~/teju.txt
-|4,39,7,0,1757207150,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
--'  1  0  ~/teju.txt
-|4,39,1,0,1757206686,"~/teju.txt"
 
 # History of marks within files (newest to oldest):
 
+> ~/sample.txt
+	*	1757920242	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
 > ~/.gitconfig
-	*	1757906175	0
+	*	1757918080	0
 	"	5	31
 	^	5	32
 	.	5	31
