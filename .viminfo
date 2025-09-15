@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1757933973,,"wq"
+|2,0,1757947722,,"wq"
+:q!
+|2,0,1757934460,,"q!"
 ::wq
 |2,0,1757151782,,":wq"
 
@@ -46,35 +48,79 @@
 
 # File marks:
 '0  4  0  ~/teja.txt
-|4,48,4,0,1757933973,"~/teja.txt"
-'1  1  13  ~/tanya.txt
-|4,49,1,13,1757929420,"~/tanya.txt"
-'2  5  0  ~/yashwanth.txt
-|4,50,5,0,1757929300,"~/yashwanth.txt"
-'3  1  14  ~/teja.txt
-|4,51,1,14,1757929083,"~/teja.txt"
-'4  2  0  ~/teja.txt
-|4,52,2,0,1757929083,"~/teja.txt"
-'5  1  17  ~/teja.txt
-|4,53,1,17,1757928785,"~/teja.txt"
-'6  1  17  ~/teja.txt
-|4,54,1,17,1757928785,"~/teja.txt"
-'7  1  17  ~/teja.txt
-|4,55,1,17,1757928785,"~/teja.txt"
-'8  1  17  ~/teja.txt
-|4,56,1,17,1757928785,"~/teja.txt"
-'9  2  0  ~/yasu.txt
-|4,57,2,0,1757928411,"~/yasu.txt"
+|4,48,4,0,1757947722,"~/teja.txt"
+'1  4  0  ~/teja.txt
+|4,49,4,0,1757934460,"~/teja.txt"
+'2  4  0  ~/teja.txt
+|4,50,4,0,1757933973,"~/teja.txt"
+'3  4  0  ~/teja.txt
+|4,51,4,0,1757933973,"~/teja.txt"
+'4  1  13  ~/tanya.txt
+|4,52,1,13,1757929420,"~/tanya.txt"
+'5  5  0  ~/yashwanth.txt
+|4,53,5,0,1757929300,"~/yashwanth.txt"
+'6  1  14  ~/teja.txt
+|4,54,1,14,1757929083,"~/teja.txt"
+'7  2  0  ~/teja.txt
+|4,55,2,0,1757929083,"~/teja.txt"
+'8  1  14  ~/teja.txt
+|4,56,1,14,1757929083,"~/teja.txt"
+'9  2  0  ~/teja.txt
+|4,57,2,0,1757929083,"~/teja.txt"
 
 # Jumplist (newest first):
 -'  4  0  ~/teja.txt
+|4,39,4,0,1757947722,"~/teja.txt"
+-'  4  0  ~/teja.txt
+|4,39,4,0,1757934460,"~/teja.txt"
+-'  4  0  ~/teja.txt
 |4,39,4,0,1757933973,"~/teja.txt"
+-'  1  14  ~/teja.txt
+|4,39,1,14,1757933947,"~/teja.txt"
+-'  1  14  ~/teja.txt
+|4,39,1,14,1757933947,"~/teja.txt"
 -'  1  14  ~/teja.txt
 |4,39,1,14,1757933947,"~/teja.txt"
 -'  1  13  ~/tanya.txt
 |4,39,1,13,1757929420,"~/tanya.txt"
 -'  1  13  ~/tanya.txt
 |4,39,1,13,1757929420,"~/tanya.txt"
+-'  1  13  ~/tanya.txt
+|4,39,1,13,1757929420,"~/tanya.txt"
+-'  1  13  ~/tanya.txt
+|4,39,1,13,1757929420,"~/tanya.txt"
+-'  1  13  ~/tanya.txt
+|4,39,1,13,1757929420,"~/tanya.txt"
+-'  1  13  ~/tanya.txt
+|4,39,1,13,1757929420,"~/tanya.txt"
+-'  1  13  ~/tanya.txt
+|4,39,1,13,1757929420,"~/tanya.txt"
+-'  1  13  ~/tanya.txt
+|4,39,1,13,1757929420,"~/tanya.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
 -'  5  0  ~/yashwanth.txt
 |4,39,5,0,1757929300,"~/yashwanth.txt"
 -'  5  0  ~/yashwanth.txt
@@ -91,6 +137,34 @@
 |4,39,1,0,1757929266,"~/yashwanth.txt"
 -'  1  0  ~/yashwanth.txt
 |4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  2  0  ~/teja.txt
+|4,39,2,0,1757929083,"~/teja.txt"
+-'  2  0  ~/teja.txt
+|4,39,2,0,1757929083,"~/teja.txt"
 -'  2  0  ~/teja.txt
 |4,39,2,0,1757929083,"~/teja.txt"
 -'  2  0  ~/teja.txt
@@ -179,99 +253,27 @@
 |4,39,2,0,1757928411,"~/yasu.txt"
 -'  2  0  ~/yasu.txt
 |4,39,2,0,1757928411,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  1  0  ~/yasu.txt
-|4,39,1,0,1757928398,"~/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
--'  2  0  ~/first/yasu.txt
-|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/teja.txt
-	*	1757933971	0
+	*	1757947720	0
 	"	4	0
 	^	4	0
 	.	3	16

@@ -88,3 +88,119 @@ git status
 git commit -m "adding sample file" -a
  git config --global --edit
 git log
+ls -ltr
+git init
+ls -ltra
+git add .
+git status
+git log
+git commit -m "adding sample file" -a
+git config --global --edit
+git log
+git push origin master
+git remote -v
+git remote add origin https://github.com/Tejaswini2432/first.git
+git remote -v
+git push origin master
+git remote -v
+git push origin master
+https://github.com/Tejaswini2432/first.git/
+vi sample.txt
+git commit -m "adding sample file" -a
+git remote add origin https://github.com/Tejaswini2432/first.git
+git log
+git remote -v
+git push origin master
+git status
+
+git status
+git commit -m "adding sample file" -a
+git config --global --edit
+git log
+git push origin master
+git remote -v
+git remote add origin https://github.com/Tejaswini2432/first.git
+git push origin master
+vi example.txt
+git status
+git add .
+git commit -m "adding example file" -a
+git status
+git commit -m "adding example file" -a
+git log
+git push origin master
+git remote add origin https://github.com/Tejaswini2432/first.git
+git add example.txt
+git commit
+git commit -m "adding example file" -a
+git log
+git branch
+git status
+git log
+ls -ltra
+ssh keygen
+ssh-keygen
+/home/ec2-user/
+cd /home/ec2-user/.ssh/
+ls -ltr
+cat id_rsa.pub
+cd
+ls -ltr
+cd first/
+ls -ltr
+vi teju.txt
+git add .
+git commit -m "adding teju file"
+git push origin master
+git@github.com:Tejaswini2432/first.git
+git remote set-url git@github.com:Tejaswini2432/first.git
+cd
+ls -ltr
+cat first
+cd teju
+cd Teju
+cd First
+cd First/
+ls -ltr
+cd first/
+ls -ltr
+vi teju.txt
+git add .
+git commit -m "adding teju file"
+git remote set -url origin git@github.com:Tejaswini2432/first.git
+git remote set-url origin git@github.com:Tejaswini2432/first.git
+git remote set-url git@github.com:Tejaswini2432/first.git
+git remote -v
+git remote set-url origin  git@github.com:Tejaswini2432/first.git
+git push origin master
+vi yasu.txt
+git add .
+git commit -m "Adding yasu file"
+git push origin master
+cd
+vi yasu.txt
+git add .
+git commit -m "add"
+git push origin master
+get remote set-url origin git@github.com:Tejaswini2432/first.git
+git remote set-url origin git@github.com:Tejaswini2432/first.git
+git remote -v
+vi teja.txt
+git add teju.txt
+git add teja.txt
+git commit -m "added teja file"
+git push origin master
+vi teja.txt
+git push origin master
+https://github.com/Tejaswini2432/first/security/secret-scanning/unblock-secret/32jLIkpT46ybpkqYH13ugjNJRGA
+git push origin master
+vi yashwanth.txt
+git add yashwanth.txt
+git commit -m "added yash file"
+git push origin master
+git remote set-url origin git@github.com:Tejaswini2432/first.git
+git remote -v
+vi tanya.txt
+git add tanya.txt
+git commit -m "added tanya file"
+git push origin master
