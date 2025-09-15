@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1757928411,,"wq"
+|2,0,1757933973,,"wq"
 ::wq
 |2,0,1757151782,,":wq"
 
@@ -45,230 +45,254 @@
 |3,0,36,0,1,0,1757906104,"t"
 
 # File marks:
-'0  2  0  ~/yasu.txt
-|4,48,2,0,1757928411,"~/yasu.txt"
-'1  2  0  ~/first/yasu.txt
-|4,49,2,0,1757928310,"~/first/yasu.txt"
-'2  2  0  ~/first/teju.txt
-|4,50,2,0,1757927864,"~/first/teju.txt"
-'3  2  0  ~/first/teju.txt
-|4,51,2,0,1757927273,"~/first/teju.txt"
-'4  2  0  ~/example.txt
-|4,52,2,0,1757923910,"~/example.txt"
-'5  5  31  ~/.gitconfig
-|4,53,5,31,1757920969,"~/.gitconfig"
-'6  1  13  ~/sample.txt
-|4,54,1,13,1757920244,"~/sample.txt"
-'7  5  31  ~/.gitconfig
-|4,55,5,31,1757918083,"~/.gitconfig"
-'8  5  31  ~/.gitconfig
-|4,56,5,31,1757906177,"~/.gitconfig"
-'9  5  31  ~/.gitconfig
-|4,57,5,31,1757906177,"~/.gitconfig"
+'0  4  0  ~/teja.txt
+|4,48,4,0,1757933973,"~/teja.txt"
+'1  1  13  ~/tanya.txt
+|4,49,1,13,1757929420,"~/tanya.txt"
+'2  5  0  ~/yashwanth.txt
+|4,50,5,0,1757929300,"~/yashwanth.txt"
+'3  1  14  ~/teja.txt
+|4,51,1,14,1757929083,"~/teja.txt"
+'4  2  0  ~/teja.txt
+|4,52,2,0,1757929083,"~/teja.txt"
+'5  1  17  ~/teja.txt
+|4,53,1,17,1757928785,"~/teja.txt"
+'6  1  17  ~/teja.txt
+|4,54,1,17,1757928785,"~/teja.txt"
+'7  1  17  ~/teja.txt
+|4,55,1,17,1757928785,"~/teja.txt"
+'8  1  17  ~/teja.txt
+|4,56,1,17,1757928785,"~/teja.txt"
+'9  2  0  ~/yasu.txt
+|4,57,2,0,1757928411,"~/yasu.txt"
 
 # Jumplist (newest first):
+-'  4  0  ~/teja.txt
+|4,39,4,0,1757933973,"~/teja.txt"
+-'  1  14  ~/teja.txt
+|4,39,1,14,1757933947,"~/teja.txt"
+-'  1  13  ~/tanya.txt
+|4,39,1,13,1757929420,"~/tanya.txt"
+-'  1  13  ~/tanya.txt
+|4,39,1,13,1757929420,"~/tanya.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  5  0  ~/yashwanth.txt
+|4,39,5,0,1757929300,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  1  0  ~/yashwanth.txt
+|4,39,1,0,1757929266,"~/yashwanth.txt"
+-'  2  0  ~/teja.txt
+|4,39,2,0,1757929083,"~/teja.txt"
+-'  2  0  ~/teja.txt
+|4,39,2,0,1757929083,"~/teja.txt"
+-'  2  0  ~/teja.txt
+|4,39,2,0,1757929083,"~/teja.txt"
+-'  2  0  ~/teja.txt
+|4,39,2,0,1757929083,"~/teja.txt"
+-'  1  17  ~/teja.txt
+|4,39,1,17,1757929063,"~/teja.txt"
+-'  1  17  ~/teja.txt
+|4,39,1,17,1757929063,"~/teja.txt"
+-'  1  17  ~/teja.txt
+|4,39,1,17,1757929063,"~/teja.txt"
+-'  1  17  ~/teja.txt
+|4,39,1,17,1757929063,"~/teja.txt"
+-'  1  17  ~/teja.txt
+|4,39,1,17,1757928785,"~/teja.txt"
+-'  1  17  ~/teja.txt
+|4,39,1,17,1757928785,"~/teja.txt"
+-'  1  17  ~/teja.txt
+|4,39,1,17,1757928785,"~/teja.txt"
+-'  1  17  ~/teja.txt
+|4,39,1,17,1757928785,"~/teja.txt"
 -'  2  0  ~/yasu.txt
 |4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  2  0  ~/yasu.txt
+|4,39,2,0,1757928411,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
+-'  1  0  ~/yasu.txt
+|4,39,1,0,1757928398,"~/yasu.txt"
 -'  1  0  ~/yasu.txt
 |4,39,1,0,1757928398,"~/yasu.txt"
 -'  2  0  ~/first/yasu.txt
 |4,39,2,0,1757928310,"~/first/yasu.txt"
 -'  2  0  ~/first/yasu.txt
 |4,39,2,0,1757928310,"~/first/yasu.txt"
--'  1  0  ~/first/yasu.txt
-|4,39,1,0,1757928294,"~/first/yasu.txt"
--'  1  0  ~/first/yasu.txt
-|4,39,1,0,1757928294,"~/first/yasu.txt"
--'  2  0  ~/first/teju.txt
-|4,39,2,0,1757927864,"~/first/teju.txt"
--'  2  0  ~/first/teju.txt
-|4,39,2,0,1757927864,"~/first/teju.txt"
--'  2  0  ~/first/teju.txt
-|4,39,2,0,1757927864,"~/first/teju.txt"
--'  2  0  ~/first/teju.txt
-|4,39,2,0,1757927864,"~/first/teju.txt"
--'  2  0  ~/first/teju.txt
-|4,39,2,0,1757927273,"~/first/teju.txt"
--'  2  0  ~/first/teju.txt
-|4,39,2,0,1757927273,"~/first/teju.txt"
--'  2  0  ~/first/teju.txt
-|4,39,2,0,1757927273,"~/first/teju.txt"
--'  2  0  ~/first/teju.txt
-|4,39,2,0,1757927273,"~/first/teju.txt"
--'  1  0  ~/first/teju.txt
-|4,39,1,0,1757927262,"~/first/teju.txt"
--'  1  0  ~/first/teju.txt
-|4,39,1,0,1757927262,"~/first/teju.txt"
--'  1  0  ~/first/teju.txt
-|4,39,1,0,1757927262,"~/first/teju.txt"
--'  1  0  ~/first/teju.txt
-|4,39,1,0,1757927262,"~/first/teju.txt"
--'  1  0  ~/first/teju.txt
-|4,39,1,0,1757927262,"~/first/teju.txt"
--'  1  0  ~/first/teju.txt
-|4,39,1,0,1757927262,"~/first/teju.txt"
--'  1  0  ~/first/teju.txt
-|4,39,1,0,1757927262,"~/first/teju.txt"
--'  1  0  ~/first/teju.txt
-|4,39,1,0,1757927262,"~/first/teju.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  2  0  ~/example.txt
-|4,39,2,0,1757923910,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  1  0  ~/example.txt
-|4,39,1,0,1757923899,"~/example.txt"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  5  31  ~/.gitconfig
-|4,39,5,31,1757920969,"~/.gitconfig"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
--'  1  13  ~/sample.txt
-|4,39,1,13,1757920244,"~/sample.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
+-'  2  0  ~/first/yasu.txt
+|4,39,2,0,1757928310,"~/first/yasu.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/teja.txt
+	*	1757933971	0
+	"	4	0
+	^	4	0
+	.	3	16
+	+	1	17
+	+	1	18
+	+	1	14
+	+	3	16
+
+> ~/tanya.txt
+	*	1757929419	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/yashwanth.txt
+	*	1757929297	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	4	0
 
 > ~/yasu.txt
 	*	1757928409	0
